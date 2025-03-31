@@ -1,0 +1,3 @@
+[tools.swiftformat]
+version = "0.55.4"
+backend = "asdf:swiftformat"
